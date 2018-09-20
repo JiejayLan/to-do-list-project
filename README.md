@@ -1,6 +1,6 @@
 #  *to-do-list-project*
 
-**to-do-list-project** is a web app used to record daily events created by css and js.
+**to-do-list-project** is a web app used to record daily events by using css, javascript, jquery and bootstrap.
 
 Submitted by: **Jie Lan**
 
