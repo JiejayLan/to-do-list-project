@@ -4,7 +4,7 @@
 
 Submitted by: **Jie Lan**
 
-Time spent: **3** hours spent in total
+webSite: https://jiejaylan.github.io/to-do-list-project/
 
 ## User Stories
 * User can add and delete events.
